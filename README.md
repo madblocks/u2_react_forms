@@ -1,4 +1,3 @@
-![petition form](images/form.jpg)
 
 # React Forms
 
